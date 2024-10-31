@@ -76,9 +76,7 @@ body{
   position: relative;
   margin-top: 10px;
 }
-.icons{
-  position: absolute;
-  right: 10px;
+
 }
 .icons i{
   margin: 4px;
